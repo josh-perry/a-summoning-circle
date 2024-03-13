@@ -1,0 +1,3 @@
+std="love+project"
+
+exclude = ["src/lib/**"]
